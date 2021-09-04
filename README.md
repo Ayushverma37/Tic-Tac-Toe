@@ -29,8 +29,8 @@ then choose any one of the un-entered cells(from 1 to 9) to make your move.
 
 EXAMPLE FOR TWO PLAYERS VERSION
 javac TwoPlayers.java
-ayush@ayush-TUF-Gaming-FX705DT-FX705DT:~/CS202/Lab2$ javac TicTacToe.java
-ayush@ayush-TUF-Gaming-FX705DT-FX705DT:~/CS202/Lab2$ java TicTacToe
+$ javac TicTacToe.java
+$ java TicTacToe
 Welcome to Tic Tac Toe.
 1. Two Players version
 2. Player vs Computer version
@@ -96,9 +96,9 @@ Player 1 (X) has won. Game over
 
 
 EXAMPLE FOR PLAYER VS COMP VERSION
-ayush@ayush-TUF-Gaming-FX705DT-FX705DT:~/CS202/Lab2$ javac Comp.java
-ayush@ayush-TUF-Gaming-FX705DT-FX705DT:~/CS202/Lab2$ javac TicTacToe.java
-ayush@ayush-TUF-Gaming-FX705DT-FX705DT:~/CS202/Lab2$ java TicTacToe
+$ javac Comp.java
+$ javac TicTacToe.java
+$ java TicTacToe
 Welcome to Tic Tac Toe.
 1. Two Players version
 2. Player vs Computer version
